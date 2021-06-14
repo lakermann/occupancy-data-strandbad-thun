@@ -1,6 +1,6 @@
-# Occupancy Strandbad Thun data reported by the Stadtverwaltung Thun
+# Strandbad Thun Occupancy data reported by the Stadtverwaltung Thun
 
-[![GitHub commit](https://img.shields.io/github/last-commit/lakermann/occupancy-data-strandbad-thun)](https://github.com/lakermann/occupancy-data-strandbad-thun/commits/main/)
+[![GitHub commit](https://img.shields.io/github/last-commit/lakermann/strandbad-thun-occupancy-data)](https://github.com/lakermann/strandbad-thun-occupancy-data/commits/main/)
 
 _by [Lukas Akermann](https://github.com/lakermann)_
 
@@ -12,7 +12,7 @@ This data is reported by the Stadtverwaltung Thun and recorded every 5 minutes.
 
 ### Data
 
-* <https://github.com/lakermann/occupancy-data-strandbad-thun/occupancy_strandbad_thun.csv>
+* <https://github.com/lakermann/strandbad-thun-occupancy-data/strandbad_thun_occupancy_data.csv>
 
 | Field Name          | Description                               | Format           |
 |---------------------|-------------------------------------------|------------------|
