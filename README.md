@@ -2,6 +2,8 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/lakermann/occupancy-data-strandbad-thun)](https://github.com/lakermann/occupancy-data-strandbad-thun/commits/main/)
 
+_by [Lukas Akermann](https://github.com/lakermann)_
+
 ## Dataset
 
 ### General description
