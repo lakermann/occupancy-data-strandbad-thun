@@ -12,7 +12,7 @@ This data is reported by the Stadtverwaltung Thun and recorded every 5 minutes.
 
 ### Data
 
-* <https://github.com/lakermann/strandbad-thun-occupancy-data/strandbad_thun_occupancy_data.csv>
+* <https://github.com/lakermann/strandbad-thun-occupancy-data/blob/main/strandbad_thun_occupancy_data.csv>
 
 | Field Name          | Description                               | Format           |
 |---------------------|-------------------------------------------|------------------|
