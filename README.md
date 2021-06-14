@@ -1,4 +1,4 @@
-# Strandbad Thun Occupancy data reported by the Stadtverwaltung Thun
+# Strandbad Thun occupancy data reported by the Stadtverwaltung Thun
 
 [![GitHub commit](https://img.shields.io/github/last-commit/lakermann/strandbad-thun-occupancy-data)](https://github.com/lakermann/strandbad-thun-occupancy-data/commits/main/)
 
